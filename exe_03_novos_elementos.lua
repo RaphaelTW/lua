@@ -8,6 +8,6 @@ idades[5] = 19
 -- Marque as opções corretas a respeito do código anterior:
 
 -- Como foi adicionado um novo elemento na posição 5,
-O valor de idades[4] é nil.
+-- O valor de idades[4] é nil.
 -- Como idades[4] é uma posição que não possui valor, será retornado nil.
-O valor de idades[3] é 54 e idades[4] é nil.
+-- O valor de idades[3] é 54 e idades[4] é nil.
